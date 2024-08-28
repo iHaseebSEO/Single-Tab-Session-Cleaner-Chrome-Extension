@@ -33,6 +33,6 @@ Tired of clearing your entire browser’s cache just to fix or test one tab? Mee
 
 ## 📷 Available on Chrome Store
 
-[![Single Tab Session Cleaner](https://i.imgur.com/ZpibLGu.png)](https://chromewebstore.google.com/detail/dfinhejohkdecfccjgejkmaapcgpcamo)
+[![Single Tab Session Cleaner](https://i.imgur.com/ZpibLGu.png)](https://chromewebstore.google.com/detail/dfinhejohkdecfccjgejkmaapcgpcamo){:target="_blank"}
 
 💬 Experience a cleaner, more efficient way to manage your tab-specific data with Single Tab Session Cleaner. Download now and enhance your testing and development workflow!
