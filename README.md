@@ -31,7 +31,7 @@ Tired of clearing your entire browser’s cache just to fix or test one tab? Mee
 2. **Watch** as the cache and data for the current tab are swiftly cleared.
 3. **Continue** working with your other tabs unaffected.
 
-## 📷 Preview
+## 📷 Available on Chrome Store
 
 [![Single Tab Session Cleaner](https://i.imgur.com/ZpibLGu.png)](https://chromewebstore.google.com/detail/dfinhejohkdecfccjgejkmaapcgpcamo)
 
